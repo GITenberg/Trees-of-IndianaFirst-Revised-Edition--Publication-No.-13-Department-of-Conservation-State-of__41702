@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41312'
     url: http://www.gutenberg.org/2009/agents/41312
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41702#Trees-of-IndianaFirst-Revised-Edition--Publication-No.-13-Department-of-Conservation-State-of_
 gutenberg_issued: '2012-12-26'
 gutenberg_type: Text
 identifiers:
